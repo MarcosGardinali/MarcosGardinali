@@ -8,6 +8,12 @@
   </kbd>
 </div>
 
+<div align="center">
+  <a href="https://github.com/MarcosGardinali">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcosGardinali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGardinali&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 Um pouco sobre mim: 
 
 💻 Técnico em Análise e Desenvolvimento de Sistemas
