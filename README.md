@@ -50,7 +50,6 @@ Um pouco sobre mim:
     <br/><br/>
     <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-    <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
   </kbd>
 </div>
 
