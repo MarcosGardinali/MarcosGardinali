@@ -22,7 +22,7 @@ Um pouco sobre mim:
 
 💻 Técnico em Análise e Desenvolvimento de Sistemas
 
-📈 Cursando Gestão Empresarial (5/6)
+📈 Cursando Gestão Empresarial (6/6)
 
 ## Linguagens que tive/tenho contato:
 <div align="center">
