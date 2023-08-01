@@ -18,7 +18,9 @@
 
 <br/><br/>
   
-Um pouco sobre mim: 
+Um pouco sobre mim:
+
+<p>Apaixonado por videogames e tecnologia.</p>
 
 💻 Técnico em Análise e Desenvolvimento de Sistemas
 
