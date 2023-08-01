@@ -20,7 +20,7 @@
   
 Um pouco sobre mim:
 
-<p>Apaixonado por videogames e tecnologia.</p>
+&#127918; Apaixonado por videogames e tecnologia
 
 💻 Técnico em Análise e Desenvolvimento de Sistemas
 
