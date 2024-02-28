@@ -22,7 +22,7 @@ Um pouco sobre mim:
 
 &#127918; Apaixonado por videogames e tecnologia
 
-💻 Técnico em Análise e Desenvolvimento de Sistemas
+💻 Análise e Desenvolvimento de Sistemas
 
 📈 Gestão Empresarial
 
@@ -44,6 +44,7 @@ Um pouco sobre mim:
   <kbd align="center">
     <kbd>Front-end</kbd>
     <br/><br/>
+    <img align="center" alt="Vue.js" height="30" width="40" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -56,7 +57,7 @@ Um pouco sobre mim:
     <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </kbd>
   <kbd align="center"> 
-    <kbd>Others</kbd>
+    <kbd>Tools</kbd>
     <br/><br/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
@@ -67,6 +68,13 @@ Um pouco sobre mim:
     <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </kbd>
+  <kbd align="center"> 
+    <kbd>OS</kbd>
+    <br/><br/>
+    <img align="center" alt="Linux" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img align="center" alt="Windows" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="Debian" height="30" width="40" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
   </kbd>
 </div>
 
