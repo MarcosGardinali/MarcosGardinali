@@ -59,7 +59,7 @@ Um pouco sobre mim:
   <kbd align="center"> 
     <kbd>Tools</kbd>
     <br/><br/>
-    <img align="center" alt="Github" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=30&color=ffffff" />
+    <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   </kbd>
   <kbd align="center"> 
