@@ -22,9 +22,9 @@ Um pouco sobre mim:
 
 &#127918; Apaixonado por videogames e tecnologia
 
-💻 Análise e Desenvolvimento de Sistemas
+💻 Analista de Sistemas
 
-📈 Gestão Empresarial
+📈 Gestor Empresarial
 
 ## Linguagens que tive/tenho contato:
 <div align="center">
