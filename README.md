@@ -28,7 +28,7 @@ Um pouco sobre mim:
 
 ## Linguagens que tive/tenho contato:
 <div align="center">
-  <div style="display: inline_block"><br>
+  <div style="display: flex"><br>
   <kbd align="center"> 
     <kbd>Back-end</kbd>
     <br/><br/>
